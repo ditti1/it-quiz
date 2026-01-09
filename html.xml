@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <record>
+    <question>Wofür steht die Abkürzung HTML?</question>
+    <answers>
+      <answer correct="false">Hyper Tool Markup Language</answer>
+      <answer correct="true">Hyper Text Markup Language</answer>
+      <answer correct="false">High Text Markup Language</answer>
+      <answer correct="false">Hyperlink and Text Markup Language</answer>
+    </answers>
+  </record>
+  <record>
+    <question>Welches Element definiert den Hauptinhalt eines HTML-Dokuments?</question>
+    <answers>
+      <answer correct="true">&lt;main&gt;</answer>
+      <answer correct="false">&lt;body&gt;</answer>
+      <answer correct="false">&lt;content&gt;</answer>
+      <answer correct="false">&lt;section&gt;</answer>
+    </answers>
+  </record>
+  <!-- Weitere Records... -->
+</quiz>
