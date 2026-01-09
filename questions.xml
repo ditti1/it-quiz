@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <category name="HTML">
+    <record>
+      <question>Wofür steht die Abkürzung HTML?</question>
+      <answers>
+        <answer correct="false">Hyper Tool Markup Language</answer>
+        <answer correct="true">Hyper Text Markup Language</answer>
+        <answer correct="false">High Text Markup Language</answer>
+        <answer correct="false">Hyperlink and Text Markup Language</answer>
+      </answers>
+    </record>
+    <record>
+      <question>Welches Element definiert den Hauptinhalt eines HTML-Dokuments?</question>
+      <answers>
+        <answer correct="true">&lt;main&gt;</answer>
+        <answer correct="false">&lt;body&gt;</answer>
+        <answer correct="false">&lt;content&gt;</answer>
+        <answer correct="false">&lt;section&gt;</answer>
+      </answers>
+    </record>
+    <!-- Weitere Records... -->
+  </category>
+  <category name="HTML">
+    <record>
+      <question>Wofür steht CSS?</question>
+      <answers>
+        <answer correct="false">Computer Style Sheets</answer>
+        <answer correct="false">Creative Style Sheets</answer>
+        <answer correct="false">Colorful Style Sheets</answer>
+        <answer correct="true">Cascading Style Sheets</answer>
+      </answers>
+    </record>
+    <record>
+      <question>Welches HTML-Tag wird verwendet, um internes CSS zu definieren?</question>
+      <answers>
+        <answer correct="false">&lt;css&gt;</answer>
+        <answer correct="false">&lt;script&gt;</answer>
+        <answer correct="true">&lt;style&gt;</answer>
+        <answer correct="false">&lt;link&gt;</answer>
+      </answers>
+    </record>
+    <!-- Weitere Records... -->
+  </category>
+</quiz>
